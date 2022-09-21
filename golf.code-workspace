@@ -1,0 +1,20 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "liveServer.settings.proxy": {
+                    "enable": true,
+                    "baseUri": "/",
+                    "proxyUri": "http://localhost/golf"
+    },
+    "liveServer.settings.useWebExt": true,
+    "files.associations": {
+      "iostream": "cpp",
+      "cmath": "cpp",
+      "ratio": "cpp"
+    }
+  }
+}

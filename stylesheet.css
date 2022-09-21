@@ -1,0 +1,1316 @@
+.edogawa:not(:checked) ~ .edogawa-info_and_list {
+  display: none; }
+
+.edogawa:checked ~ .edogawa-info_and_list {
+  display: block;
+  animation: fadein 1.5s; }
+
+.edogawa-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center; }
+
+.edogawa {
+  accent-color: lavender;
+  transform: scale(2); }
+
+.edogawa:checked ~ .edogawa-list {
+  display: block;
+  animation: fadein 1.5s; }
+
+[type="checkbox"].edogawa {
+  position: relative;
+  margin: 8px 0px; }
+
+[type="checkbox"].edogawa:after {
+  content: "";
+  position: absolute;
+  width: 50px;
+  height: 20px;
+  padding-left: 20px;
+  top: 50%;
+  transform: translateY(-50%); }
+
+.edogawa-info h3 {
+  font-size: 60px; }
+
+.edogawa-practice_field {
+  display: flex;
+  margin: 0px 0px 120px 0px;
+  padding: 0 !important; }
+
+.edogawa-practice_field img {
+  width: 750px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  border-radius: 15px; }
+
+.edogawa-practice_field-text {
+  margin: 0px 0px 0px 40px;
+  display: flex;
+  align-items: center; }
+
+.katsushika:not(:checked) ~ .katsushika-info_and_list {
+  display: none; }
+
+.katsushika:checked ~ .katsushika-info_and_list {
+  display: block;
+  animation: fadein 1.5s; }
+
+.katsushika-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center; }
+
+.katsushika {
+  accent-color: lavender;
+  transform: scale(2); }
+
+.katsushika:checked ~ .katsushika-list {
+  display: block;
+  animation: fadein 1.5s; }
+
+[type="checkbox"].katsushika {
+  position: relative;
+  margin: 8px 0px; }
+
+[type="checkbox"].katsushika:after {
+  content: "";
+  position: absolute;
+  width: 50px;
+  height: 20px;
+  padding-left: 20px;
+  top: 50%;
+  transform: translateY(-50%); }
+
+.katsushika-info h3 {
+  font-size: 60px; }
+
+.katsushika-practice_field {
+  display: flex;
+  margin: 0px 0px 120px 0px;
+  padding: 0 !important; }
+
+.katsushika-practice_field img {
+  width: 750px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  border-radius: 15px; }
+
+.katsushika-practice_field-text {
+  margin: 0px 0px 0px 40px;
+  display: flex;
+  align-items: center; }
+
+.sumida:not(:checked) ~ .sumida-info_and_list {
+  display: none; }
+
+.sumida:checked ~ .sumida-info_and_list {
+  display: block;
+  animation: fadein 1.5s; }
+
+.sumida-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center; }
+
+.sumida {
+  accent-color: lavender;
+  transform: scale(2); }
+
+.sumida:checked ~ .sumida-list {
+  display: block;
+  animation: fadein 1.5s; }
+
+[type="checkbox"].sumida {
+  position: relative;
+  margin: 8px 0px; }
+
+[type="checkbox"].sumida:after {
+  content: "";
+  position: absolute;
+  width: 50px;
+  height: 20px;
+  padding-left: 20px;
+  top: 50%;
+  transform: translateY(-50%); }
+
+.sumida-info h3 {
+  font-size: 60px; }
+
+.sumida-practice_field {
+  display: flex;
+  margin: 0px 0px 120px 0px;
+  padding: 0 !important; }
+
+.sumida-practice_field img {
+  width: 750px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  border-radius: 15px; }
+
+.sumida-practice_field-text {
+  margin: 0px 0px 0px 40px;
+  display: flex;
+  align-items: center; }
+
+.koutou:not(:checked) ~ .koutou-info_and_list {
+  display: none; }
+
+.koutou:checked ~ .koutou-info_and_list {
+  display: block;
+  animation: fadein 1.5s; }
+
+.koutou-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center; }
+
+.koutou {
+  accent-color: lavender;
+  transform: scale(2); }
+
+.koutou:checked ~ .koutou-list {
+  display: block;
+  animation: fadein 1.5s; }
+
+[type="checkbox"].koutou {
+  position: relative;
+  margin: 8px 0px; }
+
+[type="checkbox"].koutou:after {
+  content: "";
+  position: absolute;
+  width: 50px;
+  height: 20px;
+  padding-left: 20px;
+  top: 50%;
+  transform: translateY(-50%); }
+
+.koutou-info h3 {
+  font-size: 60px; }
+
+.koutou-practice_field {
+  display: flex;
+  margin: 0px 0px 120px 0px;
+  padding: 0 !important; }
+
+.koutou-practice_field img {
+  width: 750px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  border-radius: 15px; }
+
+.koutou-practice_field-text {
+  margin: 0px 0px 0px 40px;
+  display: flex;
+  align-items: center; }
+
+.adachi:not(:checked) ~ .adachi-info_and_list {
+  display: none; }
+
+.adachi:checked ~ .adachi-info_and_list {
+  display: block;
+  animation: fadein 1.5s; }
+
+.adachi-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center; }
+
+.adachi {
+  accent-color: lavender;
+  transform: scale(2); }
+
+.adachi:checked ~ .adachi-list {
+  display: block;
+  animation: fadein 1.5s; }
+
+[type="checkbox"].adachi {
+  position: relative;
+  margin: 8px 0px; }
+
+[type="checkbox"].adachi:after {
+  content: "";
+  position: absolute;
+  width: 50px;
+  height: 20px;
+  padding-left: 20px;
+  top: 50%;
+  transform: translateY(-50%); }
+
+.adachi-info h3 {
+  font-size: 60px; }
+
+.adachi-practice_field {
+  display: flex;
+  margin: 0px 0px 120px 0px;
+  padding: 0 !important; }
+
+.adachi-practice_field img {
+  width: 750px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  border-radius: 15px; }
+
+.adachi-practice_field-text {
+  margin: 0px 0px 0px 40px;
+  display: flex;
+  align-items: center; }
+
+.arakawa:not(:checked) ~ .arakawa-info_and_list {
+  display: none; }
+
+.arakawa:checked ~ .arakawa-info_and_list {
+  display: block;
+  animation: fadein 1.5s; }
+
+.arakawa-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center; }
+
+.arakawa {
+  accent-color: lavender;
+  transform: scale(2); }
+
+.arakawa:checked ~ .arakawa-list {
+  display: block;
+  animation: fadein 1.5s; }
+
+[type="checkbox"].arakawa {
+  position: relative;
+  margin: 8px 0px; }
+
+[type="checkbox"].arakawa:after {
+  content: "";
+  position: absolute;
+  width: 50px;
+  height: 20px;
+  padding-left: 20px;
+  top: 50%;
+  transform: translateY(-50%); }
+
+.arakawa-info h3 {
+  font-size: 60px; }
+
+.arakawa-practice_field {
+  display: flex;
+  margin: 0px 0px 120px 0px;
+  padding: 0 !important; }
+
+.arakawa-practice_field img {
+  width: 750px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  border-radius: 15px; }
+
+.arakawa-practice_field-text {
+  margin: 0px 0px 0px 40px;
+  display: flex;
+  align-items: center; }
+
+.kita:not(:checked) ~ .kita-info_and_list {
+  display: none; }
+
+.kita:checked ~ .kita-info_and_list {
+  display: block;
+  animation: fadein 1.5s; }
+
+.kita-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center; }
+
+.kita {
+  accent-color: lavender;
+  transform: scale(2); }
+
+.kita:checked ~ .kita-list {
+  display: block;
+  animation: fadein 1.5s; }
+
+[type="checkbox"].kita {
+  position: relative;
+  margin: 8px 0px; }
+
+[type="checkbox"].kita:after {
+  content: "";
+  position: absolute;
+  width: 50px;
+  height: 20px;
+  padding-left: 20px;
+  top: 50%;
+  transform: translateY(-50%); }
+
+.kita-info h3 {
+  font-size: 60px; }
+
+.kita-practice_field {
+  display: flex;
+  margin: 0px 0px 120px 0px;
+  padding: 0 !important; }
+
+.kita-practice_field img {
+  width: 750px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  border-radius: 15px; }
+
+.kita-practice_field-text {
+  margin: 0px 0px 0px 40px;
+  display: flex;
+  align-items: center; }
+
+.toshima:not(:checked) ~ .toshima-info_and_list {
+  display: none; }
+
+.toshima:checked ~ .toshima-info_and_list {
+  display: block;
+  animation: fadein 1.5s; }
+
+.toshima-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center; }
+
+.toshima {
+  accent-color: lavender;
+  transform: scale(2); }
+
+.toshima:checked ~ .toshima-list {
+  display: block;
+  animation: fadein 1.5s; }
+
+[type="checkbox"].toshima {
+  position: relative;
+  margin: 8px 0px; }
+
+[type="checkbox"].toshima:after {
+  content: "";
+  position: absolute;
+  width: 50px;
+  height: 20px;
+  padding-left: 20px;
+  top: 50%;
+  transform: translateY(-50%); }
+
+.toshima-info h3 {
+  font-size: 60px; }
+
+.toshima-practice_field {
+  display: flex;
+  margin: 0px 0px 120px 0px;
+  padding: 0 !important; }
+
+.toshima-practice_field img {
+  width: 750px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  border-radius: 15px; }
+
+.toshima-practice_field-text {
+  margin: 0px 0px 0px 40px;
+  display: flex;
+  align-items: center; }
+
+.itabashi:not(:checked) ~ .itabashi-info_and_list {
+  display: none; }
+
+.itabashi:checked ~ .itabashi-info_and_list {
+  display: block;
+  animation: fadein 1.5s; }
+
+.itabashi-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center; }
+
+.itabashi {
+  accent-color: lavender;
+  transform: scale(2); }
+
+.itabashi:checked ~ .itabashi-list {
+  display: block;
+  animation: fadein 1.5s; }
+
+[type="checkbox"].itabashi {
+  position: relative;
+  margin: 8px 0px; }
+
+[type="checkbox"].itabashi:after {
+  content: "";
+  position: absolute;
+  width: 50px;
+  height: 20px;
+  padding-left: 20px;
+  top: 50%;
+  transform: translateY(-50%); }
+
+.itabashi-info h3 {
+  font-size: 60px; }
+
+.itabashi-practice_field {
+  display: flex;
+  margin: 0px 0px 120px 0px;
+  padding: 0 !important; }
+
+.itabashi-practice_field img {
+  width: 750px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  border-radius: 15px; }
+
+.itabashi-practice_field-text {
+  margin: 0px 0px 0px 40px;
+  display: flex;
+  align-items: center; }
+
+.bunkyou:not(:checked) ~ .bunkyou-info_and_list {
+  display: none; }
+
+.bunkyou:checked ~ .bunkyou-info_and_list {
+  display: block;
+  animation: fadein 1.5s; }
+
+.bunkyou-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center; }
+
+.bunkyou {
+  accent-color: lavender;
+  transform: scale(2); }
+
+.bunkyou:checked ~ .bunkyou-list {
+  display: block;
+  animation: fadein 1.5s; }
+
+[type="checkbox"].bunkyou {
+  position: relative;
+  margin: 8px 0px; }
+
+[type="checkbox"].bunkyou:after {
+  content: "";
+  position: absolute;
+  width: 50px;
+  height: 20px;
+  padding-left: 20px;
+  top: 50%;
+  transform: translateY(-50%); }
+
+.bunkyou-info h3 {
+  font-size: 60px; }
+
+.bunkyou-practice_field {
+  display: flex;
+  margin: 0px 0px 120px 0px;
+  padding: 0 !important; }
+
+.bunkyou-practice_field img {
+  width: 750px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  border-radius: 15px; }
+
+.bunkyou-practice_field-text {
+  margin: 0px 0px 0px 40px;
+  display: flex;
+  align-items: center; }
+
+.taitou:not(:checked) ~ .taitou-info_and_list {
+  display: none; }
+
+.taitou:checked ~ .taitou-info_and_list {
+  display: block;
+  animation: fadein 1.5s; }
+
+.taitou-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center; }
+
+.taitou {
+  accent-color: lavender;
+  transform: scale(2); }
+
+.taitou:checked ~ .taitou-list {
+  display: block;
+  animation: fadein 1.5s; }
+
+[type="checkbox"].taitou {
+  position: relative;
+  margin: 8px 0px; }
+
+[type="checkbox"].taitou:after {
+  content: "";
+  position: absolute;
+  width: 50px;
+  height: 20px;
+  padding-left: 20px;
+  top: 50%;
+  transform: translateY(-50%); }
+
+.taitou-info h3 {
+  font-size: 60px; }
+
+.taitou-practice_field {
+  display: flex;
+  margin: 0px 0px 120px 0px;
+  padding: 0 !important; }
+
+.taitou-practice_field img {
+  width: 750px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  border-radius: 15px; }
+
+.taitou-practice_field-text {
+  margin: 0px 0px 0px 40px;
+  display: flex;
+  align-items: center; }
+
+.chuou:not(:checked) ~ .chuou-info_and_list {
+  display: none; }
+
+.chuou:checked ~ .chuou-info_and_list {
+  display: block;
+  animation: fadein 1.5s; }
+
+.chuou-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center; }
+
+.chuou {
+  accent-color: lavender;
+  transform: scale(2); }
+
+.chuou:checked ~ .chuou-list {
+  display: block;
+  animation: fadein 1.5s; }
+
+[type="checkbox"].chuou {
+  position: relative;
+  margin: 8px 0px; }
+
+[type="checkbox"].chuou:after {
+  content: "";
+  position: absolute;
+  width: 50px;
+  height: 20px;
+  padding-left: 20px;
+  top: 50%;
+  transform: translateY(-50%); }
+
+.chuou-info h3 {
+  font-size: 60px; }
+
+.chuou-practice_field {
+  display: flex;
+  margin: 0px 0px 120px 0px;
+  padding: 0 !important; }
+
+.chuou-practice_field img {
+  width: 750px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  border-radius: 15px; }
+
+.chuou-practice_field-text {
+  margin: 0px 0px 0px 40px;
+  display: flex;
+  align-items: center; }
+
+.chiyoda:not(:checked) ~ .chiyoda-info_and_list {
+  display: none; }
+
+.chiyoda:checked ~ .chiyoda-info_and_list {
+  display: block;
+  animation: fadein 1.5s; }
+
+.chiyoda-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center; }
+
+.chiyoda {
+  accent-color: lavender;
+  transform: scale(2); }
+
+.chiyoda:checked ~ .chiyoda-list {
+  display: block;
+  animation: fadein 1.5s; }
+
+[type="checkbox"].chiyoda {
+  position: relative;
+  margin: 8px 0px; }
+
+[type="checkbox"].chiyoda:after {
+  content: "";
+  position: absolute;
+  width: 50px;
+  height: 20px;
+  padding-left: 20px;
+  top: 50%;
+  transform: translateY(-50%); }
+
+.chiyoda-info h3 {
+  font-size: 60px; }
+
+.chiyoda-practice_field {
+  display: flex;
+  margin: 0px 0px 120px 0px;
+  padding: 0 !important; }
+
+.chiyoda-practice_field img {
+  width: 750px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  border-radius: 15px; }
+
+.chiyoda-practice_field-text {
+  margin: 0px 0px 0px 40px;
+  display: flex;
+  align-items: center; }
+
+.minato:not(:checked) ~ .minato-info_and_list {
+  display: none; }
+
+.minato:checked ~ .minato-info_and_list {
+  display: block;
+  animation: fadein 1.5s; }
+
+.minato-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center; }
+
+.minato {
+  accent-color: lavender;
+  transform: scale(2); }
+
+.minato:checked ~ .minato-list {
+  display: block;
+  animation: fadein 1.5s; }
+
+[type="checkbox"].minato {
+  position: relative;
+  margin: 8px 0px; }
+
+[type="checkbox"].minato:after {
+  content: "";
+  position: absolute;
+  width: 50px;
+  height: 20px;
+  padding-left: 20px;
+  top: 50%;
+  transform: translateY(-50%); }
+
+.minato-info h3 {
+  font-size: 60px; }
+
+.minato-practice_field {
+  display: flex;
+  margin: 0px 0px 120px 0px;
+  padding: 0 !important; }
+
+.minato-practice_field img {
+  width: 750px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  border-radius: 15px; }
+
+.minato-practice_field-text {
+  margin: 0px 0px 0px 40px;
+  display: flex;
+  align-items: center; }
+
+.shinagawa:not(:checked) ~ .shinagawa-info_and_list {
+  display: none; }
+
+.shinagawa:checked ~ .shinagawa-info_and_list {
+  display: block;
+  animation: fadein 1.5s; }
+
+.shinagawa-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center; }
+
+.shinagawa {
+  accent-color: lavender;
+  transform: scale(2); }
+
+.shinagawa:checked ~ .shinagawa-list {
+  display: block;
+  animation: fadein 1.5s; }
+
+[type="checkbox"].shinagawa {
+  position: relative;
+  margin: 8px 0px; }
+
+[type="checkbox"].shinagawa:after {
+  content: "";
+  position: absolute;
+  width: 50px;
+  height: 20px;
+  padding-left: 20px;
+  top: 50%;
+  transform: translateY(-50%); }
+
+.shinagawa-info h3 {
+  font-size: 60px; }
+
+.shinagawa-practice_field {
+  display: flex;
+  margin: 0px 0px 120px 0px;
+  padding: 0 !important; }
+
+.shinagawa-practice_field img {
+  width: 750px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  border-radius: 15px; }
+
+.shinagawa-practice_field-text {
+  margin: 0px 0px 0px 40px;
+  display: flex;
+  align-items: center; }
+
+.ota:not(:checked) ~ .ota-info_and_list {
+  display: none; }
+
+.ota:checked ~ .ota-info_and_list {
+  display: block;
+  animation: fadein 1.5s; }
+
+.ota-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center; }
+
+.ota {
+  accent-color: lavender;
+  transform: scale(2); }
+
+.ota:checked ~ .ota-list {
+  display: block;
+  animation: fadein 1.5s; }
+
+[type="checkbox"].ota {
+  position: relative;
+  margin: 8px 0px; }
+
+[type="checkbox"].ota:after {
+  content: "";
+  position: absolute;
+  width: 50px;
+  height: 20px;
+  padding-left: 20px;
+  top: 50%;
+  transform: translateY(-50%); }
+
+.ota-info h3 {
+  font-size: 60px; }
+
+.ota-practice_field {
+  display: flex;
+  margin: 0px 0px 120px 0px;
+  padding: 0 !important; }
+
+.ota-practice_field img {
+  width: 750px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  border-radius: 15px; }
+
+.ota-practice_field-text {
+  margin: 0px 0px 0px 40px;
+  display: flex;
+  align-items: center; }
+
+.shinjuku:not(:checked) ~ .shinjuku-info_and_list {
+  display: none; }
+
+.shinjuku:checked ~ .shinjuku-info_and_list {
+  display: block;
+  animation: fadein 1.5s; }
+
+.shinjuku-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center; }
+
+.shinjuku {
+  accent-color: lavender;
+  transform: scale(2); }
+
+.shinjuku:checked ~ .shinjuku-list {
+  display: block;
+  animation: fadein 1.5s; }
+
+[type="checkbox"].shinjuku {
+  position: relative;
+  margin: 8px 0px; }
+
+[type="checkbox"].shinjuku:after {
+  content: "";
+  position: absolute;
+  width: 50px;
+  height: 20px;
+  padding-left: 20px;
+  top: 50%;
+  transform: translateY(-50%); }
+
+.shinjuku-info h3 {
+  font-size: 60px; }
+
+.shinjuku-practice_field {
+  display: flex;
+  margin: 0px 0px 120px 0px;
+  padding: 0 !important; }
+
+.shinjuku-practice_field img {
+  width: 750px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  border-radius: 15px; }
+
+.shinjuku-practice_field-text {
+  margin: 0px 0px 0px 40px;
+  display: flex;
+  align-items: center; }
+
+.shibuya:not(:checked) ~ .shibuya-info_and_list {
+  display: none; }
+
+.shibuya:checked ~ .shibuya-info_and_list {
+  display: block;
+  animation: fadein 1.5s; }
+
+.shibuya-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center; }
+
+.shibuya {
+  accent-color: lavender;
+  transform: scale(2); }
+
+.shibuya:checked ~ .shibuya-list {
+  display: block;
+  animation: fadein 1.5s; }
+
+[type="checkbox"].shibuya {
+  position: relative;
+  margin: 8px 0px; }
+
+[type="checkbox"].shibuya:after {
+  content: "";
+  position: absolute;
+  width: 50px;
+  height: 20px;
+  padding-left: 20px;
+  top: 50%;
+  transform: translateY(-50%); }
+
+.shibuya-info h3 {
+  font-size: 60px; }
+
+.shibuya-practice_field {
+  display: flex;
+  margin: 0px 0px 120px 0px;
+  padding: 0 !important; }
+
+.shibuya-practice_field img {
+  width: 750px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  border-radius: 15px; }
+
+.shibuya-practice_field-text {
+  margin: 0px 0px 0px 40px;
+  display: flex;
+  align-items: center; }
+
+.meguro:not(:checked) ~ .meguro-info_and_list {
+  display: none; }
+
+.meguro:checked ~ .meguro-info_and_list {
+  display: block;
+  animation: fadein 1.5s; }
+
+.meguro-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center; }
+
+.meguro {
+  accent-color: lavender;
+  transform: scale(2); }
+
+.meguro:checked ~ .meguro-list {
+  display: block;
+  animation: fadein 1.5s; }
+
+[type="checkbox"].meguro {
+  position: relative;
+  margin: 8px 0px; }
+
+[type="checkbox"].meguro:after {
+  content: "";
+  position: absolute;
+  width: 50px;
+  height: 20px;
+  padding-left: 20px;
+  top: 50%;
+  transform: translateY(-50%); }
+
+.meguro-info h3 {
+  font-size: 60px; }
+
+.meguro-practice_field {
+  display: flex;
+  margin: 0px 0px 120px 0px;
+  padding: 0 !important; }
+
+.meguro-practice_field img {
+  width: 750px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  border-radius: 15px; }
+
+.meguro-practice_field-text {
+  margin: 0px 0px 0px 40px;
+  display: flex;
+  align-items: center; }
+
+.setagaya:not(:checked) ~ .setagaya-info_and_list {
+  display: none; }
+
+.setagaya:checked ~ .setagaya-info_and_list {
+  display: block;
+  animation: fadein 1.5s; }
+
+.setagaya-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center; }
+
+.setagaya {
+  accent-color: lavender;
+  transform: scale(2); }
+
+.setagaya:checked ~ .setagaya-list {
+  display: block;
+  animation: fadein 1.5s; }
+
+[type="checkbox"].setagaya {
+  position: relative;
+  margin: 8px 0px; }
+
+[type="checkbox"].setagaya:after {
+  content: "";
+  position: absolute;
+  width: 50px;
+  height: 20px;
+  padding-left: 20px;
+  top: 50%;
+  transform: translateY(-50%); }
+
+.setagaya-info h3 {
+  font-size: 60px; }
+
+.setagaya-practice_field {
+  display: flex;
+  margin: 0px 0px 120px 0px;
+  padding: 0 !important; }
+
+.setagaya-practice_field img {
+  width: 750px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  border-radius: 15px; }
+
+.setagaya-practice_field-text {
+  margin: 0px 0px 0px 40px;
+  display: flex;
+  align-items: center; }
+
+.nakano:not(:checked) ~ .nakano-info_and_list {
+  display: none; }
+
+.nakano:checked ~ .nakano-info_and_list {
+  display: block;
+  animation: fadein 1.5s; }
+
+.nakano-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center; }
+
+.nakano {
+  accent-color: lavender;
+  transform: scale(2); }
+
+.nakano:checked ~ .nakano-list {
+  display: block;
+  animation: fadein 1.5s; }
+
+[type="checkbox"].nakano {
+  position: relative;
+  margin: 8px 0px; }
+
+[type="checkbox"].nakano:after {
+  content: "";
+  position: absolute;
+  width: 50px;
+  height: 20px;
+  padding-left: 20px;
+  top: 50%;
+  transform: translateY(-50%); }
+
+.nakano-info h3 {
+  font-size: 60px; }
+
+.nakano-practice_field {
+  display: flex;
+  margin: 0px 0px 120px 0px;
+  padding: 0 !important; }
+
+.nakano-practice_field img {
+  width: 750px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  border-radius: 15px; }
+
+.nakano-practice_field-text {
+  margin: 0px 0px 0px 40px;
+  display: flex;
+  align-items: center; }
+
+.suginami:not(:checked) ~ .suginami-info_and_list {
+  display: none; }
+
+.suginami:checked ~ .suginami-info_and_list {
+  display: block;
+  animation: fadein 1.5s; }
+
+.suginami-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center; }
+
+.suginami {
+  accent-color: lavender;
+  transform: scale(2); }
+
+.suginami:checked ~ .suginami-list {
+  display: block;
+  animation: fadein 1.5s; }
+
+[type="checkbox"].suginami {
+  position: relative;
+  margin: 8px 0px; }
+
+[type="checkbox"].suginami:after {
+  content: "";
+  position: absolute;
+  width: 50px;
+  height: 20px;
+  padding-left: 20px;
+  top: 50%;
+  transform: translateY(-50%); }
+
+.suginami-info h3 {
+  font-size: 60px; }
+
+.suginami-practice_field {
+  display: flex;
+  margin: 0px 0px 120px 0px;
+  padding: 0 !important; }
+
+.suginami-practice_field img {
+  width: 750px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  border-radius: 15px; }
+
+.suginami-practice_field-text {
+  margin: 0px 0px 0px 40px;
+  display: flex;
+  align-items: center; }
+
+.nerima:not(:checked) ~ .nerima-info_and_list {
+  display: none; }
+
+.nerima:checked ~ .nerima-info_and_list {
+  display: block;
+  animation: fadein 1.5s; }
+
+.nerima-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center; }
+
+.nerima {
+  accent-color: lavender;
+  transform: scale(2); }
+
+.nerima:checked ~ .nerima-list {
+  display: block;
+  animation: fadein 1.5s; }
+
+[type="checkbox"].nerima {
+  position: relative;
+  margin: 8px 0px; }
+
+[type="checkbox"].nerima:after {
+  content: "";
+  position: absolute;
+  width: 50px;
+  height: 20px;
+  padding-left: 20px;
+  top: 50%;
+  transform: translateY(-50%); }
+
+.nerima-info h3 {
+  font-size: 60px; }
+
+.nerima-practice_field {
+  display: flex;
+  margin: 0px 0px 120px 0px;
+  padding: 0 !important; }
+
+.nerima-practice_field img {
+  width: 750px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  border-radius: 15px; }
+
+.nerima-practice_field-text {
+  margin: 0px 0px 0px 40px;
+  display: flex;
+  align-items: center; }
+
+* {
+  box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: "Hiragino Kaku Gothic ProN";
+  background-color: #f2f2f2;
+  animation: fadein 0.8s; }
+
+@keyframes fadein {
+  from {
+    opacity: 0; }
+  to {
+    opacity: 1; } }
+a {
+  text-decoration: none; }
+
+.container {
+  width: 100%;
+  padding: 0 15px;
+  margin: 0 auto; }
+
+header {
+  height: 100px;
+  width: 100%;
+  background-color: rgba(34, 49, 52, 0.9);
+  position: fixed;
+  top: 0;
+  z-index: 10; }
+
+.pagetop {
+  height: 50px;
+  width: 50px;
+  position: fixed;
+  right: 30px;
+  bottom: 30px;
+  background: #fff;
+  border: solid 2px #000;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 2;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3); }
+
+.pagetop__arrow {
+  height: 10px;
+  width: 10px;
+  border-top: 3px solid #000;
+  border-right: 3px solid #000;
+  transform: translateY(20%) rotate(-45deg); }
+
+.header-intro-left p {
+  float: left; }
+
+.top-wrapper {
+  padding: 280px 0px 100px 0;
+  background-image: url(glf0023-026_modify1.jpg);
+  background-size: cover;
+  color: white;
+  text-align: center; }
+
+.top-wrapper h3 {
+  font-size: 80px; }
+
+.top-wrapper p {
+  font-size: 48px; }
+
+.check-wrapper {
+  text-align: center;
+  padding: 80px 0px 100px 0px; }
+
+.check-box-map-text {
+  text-align: center; }
+
+.check-box-map-text p {
+  font-size: 24px; }
+
+.checkbox-box_and_name {
+  margin: 8px 0px 8px 0px; }
+
+.imagemap-img_and_map img {
+  width: 100%;
+  height: auto; }
+
+table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0; }
+
+table td:nth-child(1) {
+  border-top: 1px solid #a8b7c5;
+  box-shadow: 0px -3px 5px 1px #eee inset; }
+
+table td:nth-child(2) {
+  border-top: 1px solid #a8b7c5;
+  box-shadow: 0px -3px 5px 1px #eee inset; }
+
+table td {
+  text-align: center;
+  border-left: 1px solid #a8b7c5;
+  border-bottom: 1px solid #a8b7c5;
+  border-top: none;
+  box-shadow: 0px -3px 5px 1px #eee inset;
+  width: 25%;
+  padding: 10px 0; }
+
+table tr {
+  background: #fff; }
+
+table tr:nth-child(2n+1) {
+  background: #f1f6fc; }
+
+table td:last-child {
+  border-right: 1px solid #a8b7c5; }
+
+table tr:last-child td:first-child {
+  border-radius: 0 0 0 5px; }
+
+table tr:last-child td:last-child {
+  border-radius: 0 0 5px 0; }
+
+.table-property {
+  width: 125px;
+  font-size: 20px; }
+
+.table-value {
+  width: 700px;
+  font-size: 20px; }
+
+.table-property-name {
+  font-size: 24px; }
+
+footer {
+  height: 100px;
+  width: 100%;
+  border-top: 4px solid #cdcdcd; }
+
+.footer-right {
+  float: right;
+  color: gray; }
+
+/*# sourceMappingURL=stylesheet.css.map */
